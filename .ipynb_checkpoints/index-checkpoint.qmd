@@ -3,7 +3,7 @@ title: "MUSA 550 Final Project Template"
 subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
 ---
 
-## Welcome!
+## Welcome
 
 We can create beautiful websites that describe complex technical analyses in Python using [Quarto](https://quarto.org) 
 and deploy them online using [GitHub Pages](https://pages.github.com/). This combination of tools is a really powerful way 
