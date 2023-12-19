@@ -1,6 +1,6 @@
 ---
-title: "MUSA 550 Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "Lake Erie Wind and Wave Data Visulization"
+subtitle: "Analysis of the Relationship between Wave Height and Wind Strength"
 ---
 
 ## Welcome
