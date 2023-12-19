@@ -35,7 +35,7 @@ website:
         contents:
           - analysis/wind-data-visulize.ipynb
           - analysis/web-scraping-wave-data.ipynb
-          - analysis/3-altair-hvplot.ipynb
+          - analysis/wave-visualization.ipynb
           - analysis/4-folium.ipynb
 
 format:
