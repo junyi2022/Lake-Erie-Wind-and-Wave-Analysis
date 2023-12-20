@@ -1,5 +1,7 @@
 # MUSA 550 Final Project  
 
+__Individual Project__  
+Junyi Yang  
 __Lake Erie Wind and Wave Data Analysis and Visulization__  
 Analysis of the Relationship between Wave Height and Wind Strength
 
