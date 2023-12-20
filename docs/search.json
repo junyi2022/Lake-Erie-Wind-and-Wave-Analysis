@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Lake Erie Wind and Wave Data Analysis and Visulization",
     "section": "",
-    "text": "This project is a part of my data analysis for my research assistant work. It includes data gathering from multiple sources, visualizations, and regression models. In the analysis tab on the left, you can browse through the process and have a look at the final products for both wind and wave data. The final step includes a regression analysis that is built on all the previous steps."
+    "text": "This project is a part of my data analysis for my research assistant work. It includes data gathering from multiple sources, visualizations, and regression models. In the analysis tab on the left, you can browse through the process and have a look at the final products for both wind and wave data. The final step includes a regression analysis that is built on all the previous steps.\n\n\n\nData is collected through a means more sophisticated than downloading (e.g. scraping, API).\nIt combines data collected from 3 or more different sources.\nThe analysis of the data is reasonably complex, involving multiple steps (geospatial joins/operations, data shaping, data frame operations, etc).\nYou analyze raster data using rasterio, rasterstats, or xarray.\nYou perform a machine learning analysis with scikit-learn as part of the analysis.\nThe project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc)"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Lake Erie Wind and Wave Data Analysis and Visulization",
     "section": "",
-    "text": "This project is a part of my data analysis for my research assistant work. It includes data gathering from multiple sources, visualizations, and regression models. In the analysis tab on the left, you can browse through the process and have a look at the final products for both wind and wave data. The final step includes a regression analysis that is built on all the previous steps."
+    "text": "This project is a part of my data analysis for my research assistant work. It includes data gathering from multiple sources, visualizations, and regression models. In the analysis tab on the left, you can browse through the process and have a look at the final products for both wind and wave data. The final step includes a regression analysis that is built on all the previous steps.\n\n\n\nData is collected through a means more sophisticated than downloading (e.g. scraping, API).\nIt combines data collected from 3 or more different sources.\nThe analysis of the data is reasonably complex, involving multiple steps (geospatial joins/operations, data shaping, data frame operations, etc).\nYou analyze raster data using rasterio, rasterstats, or xarray.\nYou perform a machine learning analysis with scikit-learn as part of the analysis.\nThe project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc)"
   },
   {
     "objectID": "index.html#find-out-more",

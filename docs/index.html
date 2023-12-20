@@ -151,7 +151,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
+  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
+  <ul class="collapse">
+  <li><a href="#satisfied-requirements" id="toc-satisfied-requirements" class="nav-link" data-scroll-target="#satisfied-requirements">Satisfied requirements</a></li>
+  </ul></li>
   <li><a href="#find-out-more" id="toc-find-out-more" class="nav-link" data-scroll-target="#find-out-more">Find out more</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-git"></i></div><div class="action-links"><p><a href="junyi2022.github.io/musa-550-quarto/blob/main/index.qmd" class="toc-action">View source</a></p></div></div></nav>
@@ -180,6 +183,17 @@ ul.task-list li input[type="checkbox"] {
 <section id="welcome" class="level2">
 <h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
 <p>This project is a part of my data analysis for my research assistant work. It includes data gathering from multiple sources, visualizations, and regression models. In the analysis tab on the left, you can browse through the process and have a look at the final products for both wind and wave data. The final step includes a regression analysis that is built on all the previous steps.</p>
+<section id="satisfied-requirements" class="level3">
+<h3 class="anchored" data-anchor-id="satisfied-requirements">Satisfied requirements</h3>
+<ol type="1">
+<li>Data is collected through a means more sophisticated than downloading (e.g.&nbsp;scraping, API).</li>
+<li>It combines data collected from 3 or more different sources.</li>
+<li>The analysis of the data is reasonably complex, involving multiple steps (geospatial joins/operations, data shaping, data frame operations, etc).</li>
+<li>You analyze raster data using rasterio, rasterstats, or xarray.</li>
+<li>You perform a machine learning analysis with scikit-learn as part of the analysis.</li>
+<li>The project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc)</li>
+</ol>
+</section>
 </section>
 <section id="find-out-more" class="level2">
 <h2 class="anchored" data-anchor-id="find-out-more">Find out more</h2>
