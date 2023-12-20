@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/index.html</loc>
-    <lastmod>2023-12-19T21:54:56.622Z</lastmod>
+    <lastmod>2023-12-20T17:40:33.971Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/4-folium.html</loc>
@@ -26,11 +26,11 @@
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/index.html</loc>
-    <lastmod>2023-12-19T02:15:11.244Z</lastmod>
+    <lastmod>2023-12-20T17:08:38.051Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wind-data-visulize.html</loc>
-    <lastmod>2023-12-19T02:12:07.079Z</lastmod>
+    <lastmod>2023-12-20T01:23:46.021Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/web-scraping-wave-data.html</loc>
@@ -38,6 +38,10 @@
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wave-visualization.html</loc>
-    <lastmod>2023-12-19T23:18:39.543Z</lastmod>
+    <lastmod>2023-12-20T17:11:37.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wave-wind-analysis.html</loc>
+    <lastmod>2023-12-20T17:03:42.805Z</lastmod>
   </url>
 </urlset>

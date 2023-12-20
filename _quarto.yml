@@ -15,13 +15,13 @@ website:
     left: "&copy; CC-Junyi Yang, 2023"
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/cover.png"
     pinned: true
     align: center
     tools: 
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
+        href: https://github.com/junyi2022/
+        text: "Junyi GitHub"
 
 
     style: "docked"
@@ -30,13 +30,12 @@ website:
     contents:
       - href: index.qmd
         text: Welcome!
-      - about.qmd
       - section: analysis/index.qmd
         contents:
           - analysis/wind-data-visulize.ipynb
           - analysis/web-scraping-wave-data.ipynb
           - analysis/wave-visualization.ipynb
-          - analysis/4-folium.ipynb
+          - analysis/wave-wind-analysis.ipynb
 
 format:
   html:

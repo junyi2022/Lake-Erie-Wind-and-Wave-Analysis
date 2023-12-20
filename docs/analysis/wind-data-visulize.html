@@ -169,8 +169,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../analysis/3-altair-hvplot.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Altair and Hvplot Charts</span></a>
+  <a href="../analysis/wave-visualization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Wave Data Visualization</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -220,6 +220,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><strong>Wind Data Source: <a href="https://cds.climate.copernicus.eu/cdsapp#!/search?text=ERA5&amp;type=dataset">ERA5 climate data from Climate Data Store</a></strong><br>
 The wind data in this project comes from the ‘ERA5 monthly averaged data on single levels from 1940 to present’ dataset, specifically the 10m u-component of wind and 10m v-component of wind.<br>
 The time period will be 2022 yearly data, and the area of interest will be Lake Erie.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Even though during downloading process, it says the data is in a 10 meters resolution, the actual resolution of the .nc file is much larger than that.</p>
+</div>
+</div>
 <div class="cell" data-tags="[]" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
