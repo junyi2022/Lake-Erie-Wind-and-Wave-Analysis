@@ -2,46 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/index.html</loc>
-    <lastmod>2023-12-20T17:47:22.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/4-folium.html</loc>
-    <lastmod>2023-11-04T17:56:40.988Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/2-static-images.html</loc>
-    <lastmod>2023-11-04T17:56:39.395Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/about.html</loc>
-    <lastmod>2023-12-19T02:15:01.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/1-python-code-blocks.html</loc>
-    <lastmod>2023-11-04T17:56:38.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/3-altair-hvplot.html</loc>
-    <lastmod>2023-11-04T17:56:40.299Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/index.html</loc>
-    <lastmod>2023-12-20T17:08:38.051Z</lastmod>
-  </url>
-  <url>
-    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wind-data-visulize.html</loc>
-    <lastmod>2023-12-20T01:23:46.021Z</lastmod>
+    <lastmod>2023-12-20T17:57:17.472Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/web-scraping-wave-data.html</loc>
-    <lastmod>2023-12-19T21:25:22.975Z</lastmod>
+    <lastmod>2023-12-20T17:57:16.535Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wave-visualization.html</loc>
-    <lastmod>2023-12-20T17:11:37.172Z</lastmod>
+    <lastmod>2023-12-20T17:57:12.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/index.html</loc>
+    <lastmod>2023-12-20T17:57:11.084Z</lastmod>
   </url>
   <url>
     <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wave-wind-analysis.html</loc>
-    <lastmod>2023-12-20T17:03:42.805Z</lastmod>
+    <lastmod>2023-12-20T17:57:16.015Z</lastmod>
+  </url>
+  <url>
+    <loc>https://junyi2022.github.io/musa-550-quarto/analysis/wind-data-visulize.html</loc>
+    <lastmod>2023-12-20T17:57:17.090Z</lastmod>
   </url>
 </urlset>
