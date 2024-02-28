@@ -1,9 +1,9 @@
-# MUSA 550 Final Project  
+# Lake Erie Wind and Wave Data Analysis and Visulization
+## Analysis of the Relationship between Wave Height and Wind Strength  
 
 __Individual Project__  
 Junyi Yang  
-__Lake Erie Wind and Wave Data Analysis and Visulization__  
-Analysis of the Relationship between Wave Height and Wind Strength
+December 2023
 
 ### Satisfied requirements
 1. Data is collected through a means more sophisticated than downloading (e.g. scraping, API).
@@ -13,5 +13,3 @@ Analysis of the Relationship between Wave Height and Wind Strength
 5. You perform a machine learning analysis with scikit-learn as part of the analysis.
 6. The project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc)  
 
-### Site website: 
-[https://junyi2022.github.io/musa-550-quarto/](https://junyi2022.github.io/musa-550-quarto/)
