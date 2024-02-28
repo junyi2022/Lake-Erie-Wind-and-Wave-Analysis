@@ -19,7 +19,7 @@ This project is a part of my data analysis for my research assistant work. It in
 
 ## Find out more
 
-The code for this repository is hosted on GitHub page: [https://github.com/junyi2022/musa-550-quarto](https://github.com/junyi2022/musa-550-quarto).
+The code for this repository is hosted on GitHub page: [junyi2022](https://github.com/junyi2022).
 
 
 

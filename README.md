@@ -13,3 +13,4 @@ December 2023
 5. You perform a machine learning analysis with scikit-learn as part of the analysis.
 6. The project includes multiple interactive visualizations that include a significant interactive component (cross-filtering, interactive widgets, etc)  
 
+This site is constructed using Quarto

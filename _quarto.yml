@@ -6,13 +6,13 @@ project:
 
 website:
   title: "MUSA 550 Quarto"
-  site-url: "https://junyi2022.github.io/musa-550-quarto" 
-  repo-url: "junyi2022.github.io/musa-550-quarto/" 
-  repo-actions: [source]
+  site-url: "https://junyi2022.github.io/Lake-Erie-Wind-and-Wave-Analysis/" 
+  repo-url: "junyi2022.github.io/Lake-Erie-Wind-and-Wave-Analysis/" 
+  
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Junyi Yang, 2023"
+    left: "&copy; CC-Junyi Yang, 2024"
 
   sidebar:
     logo: "images/cover.png"
